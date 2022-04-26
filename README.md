@@ -14,5 +14,6 @@
 - Spring Animations: https://www.youtube.com/watch?v=S8yn3-WpVV8
 - React Three Fiber Shaders: https://www.youtube.com/watch?v=kxXaIHi1j4w
 - React Three Fiber Cubes: https://www.youtube.com/watch?v=fdtqqyeKRJk
+- React Socket.io: https://www.youtube.com/watch?v=aA_SdbGD64E
 
 Made with 🦔 by **Rodrigo Ramirez**.
